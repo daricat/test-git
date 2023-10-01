@@ -1,1 +1,1 @@
-const feature1 = () => { console.log('feature1'); };
+export const feature1 = () => { console.log('feature1'); };
